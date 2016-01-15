@@ -1,7 +1,7 @@
 {
   "name": "gitter-irc-bot",
   "description": "A bot for synchronising messages from gitter and irc",
-  "repository": "https://github.com/finnp/gitter-irc-bot",
+  "repository": "https://github.com/MTRNord/gitter-irc-bot",
   "keywords": [
     "gitter",
     "irc",
@@ -9,13 +9,13 @@
     "bot"
   ],
   "env": {
-    "GITTERBOT_APIKEY": "get it from https://developer.gitter.im/apps",
-    "GITTERBOT_GITTER_ROOM": "user/room",
-    "GITTERBOT_IRC_CHANNEL": "#",
-    "GITTERBOT_IRC_NICK": "",
-    "GITTERBOT_IRC_SERVER": "irc.freenode.net",
-    "GITTERBOT_IRC_ADMIN": "<your irc handle>",
+    "GITTERBOT_APIKEY": "94d837ef6c0e065a4751ddab8ad0d8ae7ba4113a",
+    "GITTERBOT_GITTER_ROOM": "RpicmsTeam/RPICMS",
+    "GITTERBOT_IRC_CHANNEL": "#rpicms",
+    "GITTERBOT_IRC_NICK": "rpicms-gitter-bot",
+    "GITTERBOT_IRC_SERVER": "irc.hackint.eu",
+    "GITTERBOT_IRC_ADMIN": "MTRNord",
     "GITTERBOT_IRC_OPTS": "{}",
-    "HEROKU_URL": "http://<appname>.herokuapp.com"
+    "HEROKU_URL": "http://rpicms-gitter.herokuapp.com"
   }
 }
