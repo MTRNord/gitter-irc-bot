@@ -29,4 +29,4 @@ Then start the bot with `npm start`, or if you install globally run `gitter-irc-
 When deploying to heroku you need to set `HEROKU_URL` to the url of your heroku app.
 Otherwise heroku will spin down your free heroku instance after a few minutes.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/finnp/gitter-irc-bot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/MTRNord/gitter-irc-bot.git)
