@@ -1,4 +1,6 @@
 # gitter-irc-bot
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/MTRNord/gitter-irc-bot.svg)](https://greenkeeper.io/)
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
 Bot that synchronises messages from a gitter room and an irc channel.
